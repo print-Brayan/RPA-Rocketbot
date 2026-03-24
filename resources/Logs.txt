@@ -1,0 +1,57 @@
+
+Fecha de inicio del robot: 24-03-2026 - 11:38:42
+Status: False
+Mensaje de error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="kkk"]"}
+  (Session info: chrome=146.0.7680.154)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x75cdf3+10b03]
+	chromedriver!GetHandleVerifier [0x75cf24+10c34]
+	chromedriver!(No symbol) [0x542120]
+	chromedriver!(No symbol) [0x58abca]
+	chromedriver!(No symbol) [0x58ae6b]
+	chromedriver!(No symbol) [0x5cd0b2]
+	chromedriver!(No symbol) [0x5adb54]
+	chromedriver!(No symbol) [0x5ca9a5]
+	chromedriver!(No symbol) [0x5ad8a6]
+	chromedriver!(No symbol) [0x580229]
+	chromedriver!(No symbol) [0x580fe4]
+	chromedriver!GetHandleVerifier [0x9c48b9+2785c9]
+	chromedriver!GetHandleVerifier [0x9bfeb5+273bc5]
+	chromedriver!GetHandleVerifier [0x9de06b+291d7b]
+	chromedriver!GetHandleVerifier [0x775cc8+299d8]
+	chromedriver!GetHandleVerifier [0x77d9fd+3170d]
+	chromedriver!GetHandleVerifier [0x7658c8+195d8]
+	chromedriver!GetHandleVerifier [0x765a92+197a2]
+	chromedriver!GetHandleVerifier [0x74ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x76b7fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772582ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7725827e+ee]
+Fecha de fin del Robot: 24-03-2026 - 11:39:03
+Fecha de inicio del robot: 24-03-2026 - 11:40:01
+Status: False
+Mensaje de error: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="kkk"]"}
+  (Session info: chrome=146.0.7680.154)
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x75cdf3+10b03]
+	chromedriver!GetHandleVerifier [0x75cf24+10c34]
+	chromedriver!(No symbol) [0x542120]
+	chromedriver!(No symbol) [0x58abca]
+	chromedriver!(No symbol) [0x58ae6b]
+	chromedriver!(No symbol) [0x5cd0b2]
+	chromedriver!(No symbol) [0x5adb54]
+	chromedriver!(No symbol) [0x5ca9a5]
+	chromedriver!(No symbol) [0x5ad8a6]
+	chromedriver!(No symbol) [0x580229]
+	chromedriver!(No symbol) [0x580fe4]
+	chromedriver!GetHandleVerifier [0x9c48b9+2785c9]
+	chromedriver!GetHandleVerifier [0x9bfeb5+273bc5]
+	chromedriver!GetHandleVerifier [0x9de06b+291d7b]
+	chromedriver!GetHandleVerifier [0x775cc8+299d8]
+	chromedriver!GetHandleVerifier [0x77d9fd+3170d]
+	chromedriver!GetHandleVerifier [0x7658c8+195d8]
+	chromedriver!GetHandleVerifier [0x765a92+197a2]
+	chromedriver!GetHandleVerifier [0x74ee9a+2baa]
+	KERNEL32!BaseThreadInitThunk [0x76b7fcc9+19]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x772582ae+11e]
+	ntdll!RtlGetAppContainerNamedObjectPath [0x7725827e+ee]
+Fecha de fin del Robot: 24-03-2026 - 11:40:15
