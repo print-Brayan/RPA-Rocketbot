@@ -1,0 +1,1 @@
+# MainEste proyecto consiste en realizar de manera automÃ¡tica la descarga de los archivos en Excel del control de horas de los consultores contratados en la empresa Soavent, procesar las horas trabajas y mandar un reporte con los nombres y un archivo excel con la informaciÃ³n detalla de de todos los Consultores procesados 

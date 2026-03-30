@@ -1,0 +1,23 @@
+
+Fecha de fin del Robot: 27-03-2026 - 09:39:07
+Status: True
+Mensaje de error: savedatafile  {"file_name":"{url_ubi_recursos}logs.txt","type":"add","new_line":true,"file_data":"Fecha de inicio de Robot: {fecha_inicio}"}
+Fecha de inicio de Robot: 27-03-2026 - 09:48:41
+Status: True
+Mensaje de error: savedatafile  {"file_name":"C:/Users/root/Documents/rocketbot/Main/logs/logs.txt","type":"add","new_line":true,"file_data":"Fecha de inicio de Robot: {fecha_inicio}"}
+Fecha de fin del Robot: 27-03-2026 - 09:49:07
+Status: True
+Mensaje de error: savedatafile  {"file_name":"{url_ubi_recursos}logs.txt","type":"add","new_line":true,"file_data":"Fecha de inicio de Robot: {fecha_inicio}"}
+Fecha de fin del Robot: 27-03-2026 - 09:49:54
+Fecha de inicio de Robot: 27-03-2026 - 09:50:23
+Status: True
+Mensaje de error: savedatafile  {"file_name":"{url_ubi_recursos}logs.txt","type":"add","new_line":true,"file_data":"Fecha de inicio de Robot: {fecha_inicio}"}
+Fecha de fin del Robot: 27-03-2026 - 09:50:32
+Fecha de inicio de Robot: 27-03-2026 - 09:50:23
+Fecha de inicio de Robot: 27-03-2026 - 16:00:17
+Fecha de inicio de Robot: 27-03-2026 - 16:41:30
+Fecha de fin del Robot:
+Fecha de fin del Robot: 27-03-2026 - 16:55:58
+Fecha de inicio de Robot: 27-03-2026 - 17:00:01
+Fecha de fin del Robot: 27-03-2026 - 17:04:34
+Tiempo de procesamiento: 0
